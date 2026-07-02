@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md. Saifullah Roomy S 👋</h1>
+<h1 align="center"> I'm Md. Saifullah Roomy S 👋</h1>
 <h3 align="center">Data Analyst | Power BI • Tableau • SQL • Python • Excel</h3>
 <h4 align="center">Driving Data-Driven Decisions through AI & Business Intelligence</h4>
 
